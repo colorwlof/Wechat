@@ -16,4 +16,4 @@ kinliuren==0.1.2.5
 eacal==0.0.3
 bidict==0.23.1
 zhconv 
-pywsgi
+
